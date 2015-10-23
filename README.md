@@ -1,5 +1,5 @@
 # Python-Arduino-SF
-Arduino to Salesforce API
+Arduino/RPi to Salesforce API
 
 Utilizes Simple Salesforce REST API client to transmit payloads into Salesforce. 
 
